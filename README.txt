@@ -1,10 +1,11 @@
 # miurank
+
 THE MIURANK ALGORITHM VERSION 1.0 22-6-2017
 
-GENERAL GUIDLINES
+General guidlines
 --------------------------
-* DO NOT REDISTRIBUTE WITHOUT PERMISSION
-* THE CODE IS FOR ACADEMIC AND NON-COMMERCIAL PURPOSES ONLY
+* Do not redistribute without permission
+* The code is for academic purposes only
 
 The code
 --------------------------
