@@ -15,8 +15,8 @@ The code
 
 For bug reporting
 --------------------------
- Author: Nawaf Y Almudhahka (University of Southampton)
- almudhahka@gmail.com 
- nya1g14@ecs.soton.ac.uk 
+ Author: Nawaf Y Almudhahka (University of Southampton) \n
+ almudhahka@gmail.com \n
+ nya1g14@ecs.soton.ac.uk \n
 --------------------------
   
